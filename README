@@ -89,7 +89,7 @@ Requirements
   If you don't want to install libbot2 to your system, you can also build it
   inside the source directory.  To do this, run:
 
-  $ make
+  $ sudo make
 
   In this case, the executables, headers, libraries etc. will be installed according to
   the Pods core policy. If no other "build" directory is found, it will default to:
